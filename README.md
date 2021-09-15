@@ -21,6 +21,8 @@ Turns the process of solving a rubik's cube into music, from three perspectives:
 - Giiker Bluetooth Rubik's Cube
 - 2 x Adafruit LSM6DSO32 6-DoF Accelerometer and Gyroscope (STEMMA QT / Qwiic)
 
+Arduino to MaxMSP connected through serial.  
+
 ## Sources
 - Arduino code adapted from https://github.com/playfultechnology/esp32-smartcube and https://learn.adafruit.com/lsm6dsox-and-ism330dhc-6-dof-imu/arduino.  
 - Disjoint cycle notation generators for faceturns (and other theoretical tidbits) from http://www.permutationpuzzles.org/rubik/webnotes/rubik.pdf.
